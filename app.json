@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "calculator-ui",
+    "name": "Calculator UI",
     "slug": "calculator-ui",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,14 +16,10 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#3F9EAB"
-      },
       "package": "com.bilalbentoumi.calculatorui"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }
