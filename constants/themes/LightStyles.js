@@ -7,14 +7,14 @@ export default StyleSheet.create({
     backgroundColor: '#fff',
   },
   header: {
-    backgroundColor: '#f8f8f8',
+    backgroundColor: '#f5f6f8',
     flex: 1,
     flexDirection: 'column',
     justifyContent: 'flex-end',
     padding: 20
   },
   expression: {
-    color: '#9b9b9b',
+    color: '#909da2',
     fontSize: 28,
     fontFamily: 'Inter_500',
     textAlign: 'right'
